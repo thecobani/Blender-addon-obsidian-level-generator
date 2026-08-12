@@ -21,6 +21,6 @@ About this repo
 This showcases the core generation engine behind OBSIDIAN. A full-featured, packaged Blender addon built on top of this engine — with a UI panel, presets, and additional tooling — is available separately as a commercial product.
 
 Running it
-python main.py
+python __init__.py
 
 (Update this section with the actual entry point and any setup steps once the files are in the repo.)
